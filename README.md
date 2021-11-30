@@ -1,10 +1,14 @@
 ## Olá! Sou o Diogo de Moraes Cunha.
+<div>
+  <img align="Right" height="140em" src="https://images.vexels.com/media/users/3/157294/isolated/lists/81218c2c441da4a5095cb59bcf3a3eb8-icone-desenhado-a-mao-do-computador-portatil.png"/>
 
 - 🔭 Atualmente trabalho com Infraestrutura, e help Desk
 - 🌱 Sou formado em redes de computaores, e hoje estou estudando DEV, mais especifico Front e Back.
 - 📫Podem entrar em contato comigo pelo e-mail ddmoraes.ddm@gmail.com
 - 😄 Pronouns: Ele / Dele. 
 
+
+</div>
 <div align="center">
   <a href="https://github.com/DiogomCunha">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DiogomCunha&show_icons=true&theme=ice&include_all_commits=true&count_private=true"/>
