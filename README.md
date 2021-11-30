@@ -29,6 +29,14 @@
   <img height="50" width="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-cloud-microservices-soft-fill-soft-fill-juicy-fish.png"/>
 <img height="50" width="60" src="https://img.icons8.com/color/48/000000/azure-1.png"/>
 
+  ##
+  
+  <div>
+      <a href="https://instagram.com/ddemoraes2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/diogo-de-moraes-612a81102/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:ddmoraes.ddm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+  </div>
 
 
 
