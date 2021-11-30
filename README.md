@@ -1,4 +1,4 @@
-## Olá! Sou o DiogomCunha.
+## Olá! Sou o Diogo de Moraes Cunha.
 
 - 🔭 Atualmente trabalho com Infraestrutura, e help Desk
 - 🌱 Sou formado em redes de computaores, e hoje estou estudando DEV, mais especifico Front e Back.
