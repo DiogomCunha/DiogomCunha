@@ -4,7 +4,7 @@
   
 - 📖 Aluno DEV Digital House
 - 🔭 Atualmente trabalho com Infraestrutura, e help Desk
-- 🌱 Sou formado em redes de computaores, e hoje estou estudando DEV, mais especifico Front e Back.
+- 🌱 Sou formado em redes de computaores, e hoje estou estudando DEV, mais especifico JavaScript.
 - 📫Podem entrar em contato comigo pelo e-mail ddmoraes.ddm@gmail.com
 
 
