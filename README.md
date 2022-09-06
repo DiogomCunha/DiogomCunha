@@ -3,8 +3,8 @@
   <img align="Right" height="140em" src="https://images.vexels.com/media/users/3/157294/isolated/lists/81218c2c441da4a5095cb59bcf3a3eb8-icone-desenhado-a-mao-do-computador-portatil.png"/>
   
 - 📖 Aluno DEV Digital House
-- 🔭 Atualmente trabalho com Infraestrutura, e help Desk
-- 🌱 Sou formado em redes de computaores, e hoje estou estudando DEV, mais especifico JavaScript.
+- 🔭 Atualmente trabalho com Infraestrutura e help Desk
+- 🌱 Sou formado em redes de computadores, e hoje estou estudando DEV, mais especifico FullStack (javaScript / Java).
 - 📫Podem entrar em contato comigo pelo e-mail ddmoraes.ddm@gmail.com
 
 
