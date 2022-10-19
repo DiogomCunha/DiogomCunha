@@ -19,24 +19,25 @@
   
   
   ### Estudando:
-  
+  <div>
  <img height="50" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  </div>
  
  
   ##
   
   ### Experiencia em:
-  
+  <div>
   <img height="50" width="60" src="https://img.icons8.com/color/48/000000/windows-10.png"/>
  <img height="50" width="60" src="https://img.icons8.com/color/48/000000/active-directory.png"/>
   <img height="50" width="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-cloud-microservices-soft-fill-soft-fill-juicy-fish.png"/>
     <img height="50" width="60" src="https://img.icons8.com/color/48/000000/azure-1.png"/>
-
+  </div>
   ##
   
   <div>
